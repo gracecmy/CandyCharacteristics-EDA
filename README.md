@@ -1,4 +1,4 @@
-:dango: :candy: :chocolate_bar: :lollipop:
+:chocolate_bar:
 
 Exploring candy characteristics.
 
