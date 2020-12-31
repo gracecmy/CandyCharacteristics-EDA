@@ -1,4 +1,4 @@
-:chocolate_bar:
+:candy:
 
 Exploring candy characteristics.
 
